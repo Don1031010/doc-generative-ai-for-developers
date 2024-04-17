@@ -72,6 +72,17 @@ Efficient estimation of word representations in vector space.
 #### Transformer Model
 In 2017 Google researchers published an influential paper called "attention is all you need".
 
+* the Encoder
+* positional encodeing
+* multi-headed attention
+* masked mmulti-headed attention
+
+#### type of transformers
+* encorder-only models (Bert)
+* decorder-only models (gpt3)
+* encoder-decorder models (google's T5)
+* parallel processing with GPUs
+* Pretrained models
 
 
 
