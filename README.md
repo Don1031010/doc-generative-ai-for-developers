@@ -41,3 +41,48 @@ GPT-4
 * OpenAI
 * over 1T?
 
+### Cost of LLMs
+A study from AI21 estimates that training 1.5 billion parameters can cost $1.6 million. 
+* 1.5 billion parameters at $1.6 million
+* inference cost: $87,000 for a signle AWS instance per year
+
+## AI Evolution
+
+### Natural language processing (NLP) 
+In 1965 MIT Professor Joseph Eisen Bal developed the first chatbot called Eliza.
+
+#### General principles of NLP.
+* Tokens - break down language into components and attached numbers to them. This is known as pre-processing or tokenization.
+* Tagging parts of speech, Entity recognition, Topic modeling
+
+Progress has been slow until 2021 when deep learning became a major force in AI. Researchers start to use Recurrent Neural Networks (RNN). RNN will ingest data in a time sequence.
+
+#### Changes with RNNs
+* Long short-term memory (LSTM) models
+* Challenges with large text
+* Emergence of attention models
+
+#### Word2Vec Model
+Efficient estimation of word representations in vector space. 
+* word embeddings
+* better understand the context of the words
+* processing with a neural network
+* windows
+
+#### Transformer Model
+In 2017 Google researchers published an influential paper called "attention is all you need".
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
